@@ -118,3 +118,4 @@ while run:
             pygame.quit()
 '''
 
+# NOT COMPLETED YET SHOULD IMPLEMENT COLLISION FOR THE PADDLES 
